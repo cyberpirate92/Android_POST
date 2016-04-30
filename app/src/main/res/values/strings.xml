@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidPOST</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="def_lat">12.8425523</string>
+    <string name="def_lon">80.1528865</string>
+</resources>
